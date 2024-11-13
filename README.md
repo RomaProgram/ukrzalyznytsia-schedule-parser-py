@@ -1,12 +1,7 @@
 ![ukrzalyznytsia parser](https://github.com/user-attachments/assets/eefcb792-057b-4f88-ab64-874330cbcc9c)
 
-# Scraper Rozkazu Pidvyshhennya Vohon UZ
 
-![Проект](path_to_your_image.png)
-
-## Огляд
-
-**Scraper Rozkazu Pidvyshhennya Vohon UZ** — це Python-скрипт, який використовує Playwright для автоматизованого збору інформації про розклад відправлень та прибуттів поїздів з офіційного сайту [Укрзалізниці](https://booking.uz.gov.ua/schedule). Скрипт дозволяє швидко отримувати актуальні дані про розклад у зручному форматі.
+**Парсер Розкладу УкрЗалізниці** — це Python-скрипт, який використовує Playwright для автоматизованого збору інформації про розклад відправлень та прибуттів поїздів з офіційного сайту [Укрзалізниці](https://booking.uz.gov.ua/schedule). Скрипт дозволяє швидко отримувати актуальні дані про розклад у зручному форматі.
 
 ## Основні можливості
 
