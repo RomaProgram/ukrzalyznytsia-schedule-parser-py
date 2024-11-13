@@ -52,7 +52,7 @@
 1. **Запуск скрипта**
 
     ```bash
-    python optimized_scraper.py
+    python uz_parser.py
     ```
 
 2. **Введення вокзалу**
